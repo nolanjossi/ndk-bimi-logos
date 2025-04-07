@@ -1,2 +1,2 @@
-# ndksb-logos
-SVG logos for NDKSB
+# ndk-bimi-logos
+SVG logos for Nidecker Group
